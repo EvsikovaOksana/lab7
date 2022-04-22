@@ -1,7 +1,62 @@
-#news{
-background:yellow;
-width:150px;
-height:280px;
-float:right;
-margin:10px;
+#main{
+    width:800px;
+    background-image: url(../images/fon_bg.jpg);
+    background-repeat: repeat-y;
+}
+#header{
+    width:800px;
+    height:155px;
+    background-image: url(../images/header.jpg);
+    background-repeat:no-repeat;
+}
+#menu1{
+width:800px;
+height:35px;
+background-image: url(../images/menu1.jpg);
+background-repeat:no-repeat;
+}
+#menu2{
+width:800px;
+height:36px;
+background-image: url(../images/menu2.jpg);
+background-repeat:no-repeat;
+}
+#menu3{
+width:800px;
+height:76px;
+background-image: url(../images/menu3.jpg);
+background-repeat:no-repeat;
+}
+#reklama{
+float:left;
+width:263px;
+}
+#reklama_top{
+width:263px;
+height:67px;
+background-image: url(../images/reklama_top.jpg);
+background-repeat:no-repeat;
+}
+#reklama_text{
+width:263px;
+background-image: url(../images/reklama_bg.jpg);
+background-repeat: repeat-y;
+}
+#reklama_bottom{
+width:263px;
+height:35px;
+background-image: url(../images/reklama_bottom.jpg);
+background-repeat:no-repeat;
+
+}
+#content{
+float:left;
+width:507px;
+}
+#footer{
+clear:both;
+width:800px;
+height:28px;
+background-image: url(../images/footer.jpg);
+background-repeat: repeat-x;
 }
